@@ -13,6 +13,9 @@ public class Program1New{
 		System.out.println("Try 6");
 		System.out.println("Try 7");
 		System.out.println("Try 7.1");
+		System.out.println("Try 8");
+		System.out.println("Try 9");
+
 
 	}
 
